@@ -3,4 +3,4 @@
  2.  Identify which class method is called What is the output of the program? Why are the two lines different?
  karena mereka memanggil 2 objek yang berbeda sehingga hasil nya pun menjadi berbeda
  3. What is the output? Why does one method use the subclass version, but the other uses the superclass version?
- 
+ karena pada kode work itu sudah ditimpa pada bagian programmer sehingga hasil yang keluar adalah hasil yang sudah di override sedangkan attend meeting itu tidak di overide sehingga menampilkan hasil untuk bagian parent class nya
